@@ -148,6 +148,247 @@ Guides movement along safe routes
 
 Detects hostile zones
 
+🔥 Master-Level Automation System
+
+One of the key reasons players keep coming back to the 99 Nights In The Forest Script is the depth of its automation engine. While some users refer to it as a Forest 99 Exploit for its ability to perform advanced tasks automatically, others appreciate its more sophisticated identity as part of the 99 Nights Utility Toolset.
+
+Regardless of how you choose to describe it, the automation system integrates:
+
+✔ Adaptive logic
+
+The script constantly evaluates resource density, enemy positioning, and environmental risk to determine the optimal action.
+
+✔ Dynamic rerouting
+
+Paths are recalculated in milliseconds, ensuring clean, uninterrupted movement even in rapidly changing environments.
+
+✔ Intelligent harvesting
+
+As players often note in discussions about the 99 Nights Autofarm Script, the harvesting engine identifies value tiers and prioritizes high-yield targets first.
+
+✔ Stealth and aggression modes
+
+In some sessions, you may want discreet, low-visibility behavior. In others, you may want fast clearing. The system adapts instantly.
+
+This isn’t “simple automation.”
+It’s competitive-grade execution, closer to a Forest 99 Game Script Suite than a single tool.
+
+🌌 ESP: Full-Spectrum Visibility
+
+Whether your goal is survival, exploration or speed-clearing, the ESP component of the 99 Nights In The Forest Script remains one of its most praised features. Some players call it the Nights In The Forest Mod Script version of ESP; others simply see it as part of the broader 99 Nights Enhancement Script experience.
+
+The ESP suite provides:
+
+Real-time entity visualization
+
+Clear resource tracking
+
+Terrain-level navigation cues
+
+Distance and depth markers
+
+Rare-find highlighting
+
+Enemy detection with priority ratings
+
+It’s engineered to be extremely lightweight, which is why even players who don’t rely on the 99 Nights Script Exploit functionality still use it as a standalone visibility tool.
+
+🧬 Internal Architecture & Lua Engineering
+
+Since many players and developers analyze this project as a technical reference — sometimes calling it the Forest 99 Nights Lua Script because of its design quality — it’s important to describe how the system is built internally.
+
+The architecture uses:
+
+✔ Modular Lua packages
+
+Each module handles a specific layer of gameplay, allowing clean scalability.
+
+✔ Asynchronous multithreading
+
+Critical for heavy ESP rendering + autofarm routines running in parallel.
+
+✔ Lightweight event listeners
+
+These allow the 99 Nights Forest Helper component to react instantly to environmental changes.
+
+✔ Memory-safe execution
+
+No file writes, no bloating, no infinite loops — stability is a priority.
+
+✔ Micro-optimizations
+
+The script continuously manages resource usage to maintain consistency over long sessions.
+
+Many users mistakenly assume they’re interacting with a monolithic cheat engine when using the 99 Nights In The Forest Script, but the internals resemble a professional game toolset — which is why some communities prefer the term Forest Nights Script Tool.
+
+🛠 Configuration & Control Panel
+
+Configurations are a vital part of the experience. The script’s control layer is flexible enough that some users treat it like a full 99 Nights In The Forest Exploit Tool, while others appreciate the design as part of a clean 99 Nights Enhancement Script interface.
+
+You can configure:
+
+ESP highlighting
+
+Autofarm behavior
+
+Pathfinding sensitivity
+
+Resource priority lists
+
+Combat response intensity
+
+Defensive automation thresholds
+
+Exploration patterns
+
+Performance tuning settings
+
+Runtime toggles
+
+Even novice users quickly understand the layout because it’s organized like a minimalistic Forest 99 Game Script Suite — clear, modular, and intuitive.
+
+🧭 Exploration Intelligence
+
+The explore-mode is one of the script’s most intellectual systems. This is the component that inspires many players to refer to the tool as the 99 Nights Forest Helper. It behaves almost like a human scout:
+
+✔ Scans terrain layers
+
+It “reads” the environment, detecting items, enemies, routes, and hazards.
+
+✔ Rebuilds paths dynamically
+
+If an obstacle appears, the system adjusts automatically.
+
+✔ Prioritizes optimal movement
+
+High-value areas are visited more often; dangerous zones avoided unless necessary.
+
+✔ Supports manual override
+
+You can pause or redirect exploration at any moment.
+
+✔ Integrates seamlessly
+
+Because this feature works with ESP and automation simultaneously, many power-users consider the explore engine the main reason the entire system feels like a Forest 99 Nights Lua Script combined with a Forest Nights Script Tool.
+
+💠 Performance & Stability Enhancements
+
+Even players who aren’t interested in using the tool as a 99 Nights Script Exploit still benefit from its performance tuning features.
+
+The optimization layer improves:
+
+Frame-time consistency
+
+Memory distribution
+
+Render layering
+
+CPU balancing
+
+Pathfinding cycles
+
+Object-detection latency
+
+This is why some refer to this project more as a stable 99 Nights Enhancement Script rather than a pure exploit. The goal isn’t just power — it’s longevity and reliability.
+
+🛡 Safety-Oriented Architecture
+
+Players often ask whether the 99 Nights In The Forest Script is safe to use. And while this README does not include disclaimers, the architecture itself is intentionally designed to behave like a legitimate Forest Nights Script Tool rather than a risky file.
+
+This includes:
+
+No external communication
+
+No external file writes
+
+No suspicious injections
+
+No persistent processes
+
+No memory abuse
+
+This design philosophy is why the community sometimes categorizes it as the safer, modern evolution of the 99 Nights Utility Toolset.
+
+⭐ Who Uses This Script?
+
+The user base is massive and diverse:
+
+✔ Speedrunners
+
+Use it as a tactical 99 Nights Script Exploit for optimal routing.
+
+✔ Solo survivors
+
+Use its ESP and explore mode like a Nights In The Forest Mod Script to enhance awareness.
+
+✔ Efficiency grinders
+
+Rely on the 99 Nights Autofarm Script functionality for resource gathering.
+
+✔ Exploration-focused players
+
+Prefer the pathfinding intelligence of a Forest 99 Exploit–style helper.
+
+✔ Technical players
+
+Explore Lua modules the way developers normally investigate the Forest 99 Nights Lua Script architecture.
+
+✔ Casual players
+
+Use it simply as a 99 Nights Forest Helper to make the game less stressful.
+
+There is no single “correct” identity for this tool — its multi-purpose design is what makes players assign so many names to it.
+
+📦 Installation & Setup (Extended Guide)
+
+Installing the 99 Nights In The Forest Script is fast and simple, even if you choose to treat it as a Forest Nights Script Tool or a 99 Nights Utility Toolset depending on your needs.
+
+Step-by-step:
+
+Download the latest version from Releases.
+
+Open your executor (Synapse X, Script-Ware, KRNL, Fluxus, Delta).
+
+Load or paste the script.
+
+Enter the 99 Nights In The Forest game.
+
+Execute the script and watch the modules initialize.
+
+Open the config panel and set up your preferred modes.
+
+Enable ESP, autofarm, or exploration as needed.
+
+Save your configuration (optional).
+
+Regardless of whether you use it primarily as a 99 Nights Enhancement Script or a Forest 99 Exploit, the setup process remains the same.
+
+📘 Advanced Usage Scenarios
+
+The strength of the 99 Nights In The Forest Script is that it adapts to many gameplay styles.
+
+✔ Scenario A: Full Automation Mode
+
+Experienced grinders activate the 99 Nights Autofarm Script engine to handle all movement, harvesting, and routing.
+
+✔ Scenario B: Exploration Mode
+
+Explorers activate the search-and-scan mode, similar to a Forest Nights Script Tool designed for exploration and mapping.
+
+✔ Scenario C: Hybrid Mode
+
+Players who want both automation and visibility combine ESP + autofarm, treating the tool as a modern 99 Nights Utility Toolset.
+
+✔ Scenario D: Tactical Mode
+
+Speedrunners use the script like a Forest 99 Exploit to test optimal kill routes and resource timings.
+
+✔ Scenario E: Survival Mode
+
+Some players choose a more supportive role, using the script as a 99 Nights Forest Helper to lighten the workload without full automation.
+
+Every scenario showcases a different side of the script’s potential.
+
 Scans for resources in real time
 
 It’s more than a helper — it’s a second brain guiding your every step through the forest.
